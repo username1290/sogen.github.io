@@ -1,0 +1,2 @@
+# sogen.github.io
+Blog
